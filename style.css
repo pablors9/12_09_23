@@ -1,0 +1,34 @@
+body{
+   background-color: black;
+}
+#titulo{
+   display: flex;
+   justify-content: center;
+}
+
+.flexContainer {
+   display: inline-flex;
+   flex: 25%;
+   margin-left: 20%;
+}
+
+.flexContainer img {
+   max-height: 200px;
+}
+#cabecera{
+   align-self: center;
+   max-height: 30%;
+   max-width: 35%;
+}
+#foto{
+   margin-left: 33%
+}
+
+#atrapalos{
+   margin-left: 43%;
+}
+#puntaje{
+   color: aliceblue;
+   font-size: 20px;
+   margin-left: 40%;
+}
